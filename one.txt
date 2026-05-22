@@ -2,4 +2,4 @@ one
 1
 Hello
 Another feature34
-Adding dark mode functionallity
+Adding dark mode functionality
